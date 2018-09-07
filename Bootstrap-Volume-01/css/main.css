@@ -1,0 +1,30 @@
+/* NAVBAR */
+
+/* JUMBOTRON */
+
+/* WHO WE ARE / WHAT WE DO */
+
+/* CAROUSEL */
+
+/* JUMBOTRON */
+
+/* SERVICES */
+.grid-container {
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px;
+  grid-template-rows: 200px 200px;
+  padding: 10px;
+  grid-gap: 5px;
+}
+.grid-item {
+  border: 1px solid black;
+  text-align: center;
+  color:white;
+  background: #24303a;
+}
+
+/* FORM */
+
+/* HP THUMBNAIL */
+
+/* FOOTER */
